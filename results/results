@@ -1,0 +1,500 @@
+#
+# Results on Wednesday November 12 2014 00:54:34 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+# Design number was non-random = 26
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415753674,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,565,S,False,ROSALINE
+1415753674,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,866,S,False,PUCK
+1415753674,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,1685,K,False,TYBALT
+1415753674,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,1415753669146,K,False,OBERON
+1415753674,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1093,K,False,LYSANDER
+1415753674,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,47,K,False,MERCUTIO
+#
+# Results on Wednesday November 12 2014 00:54:53 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+# Design number was non-random = 27
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415753693,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,502,K,False,MERCUTIO
+1415753693,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,1415753681049,K,False,OBERON
+1415753693,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,1887,K,False,TYBALT
+1415753693,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,614,K,False,PUCK
+1415753693,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,1127,K,False,ROSALINE
+1415753693,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,484,K,False,LYSANDER
+#
+# Results on Wednesday November 12 2014 01:12:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+# Design number was non-random = 28
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415754749,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,631,K,False,TYBALT
+1415754749,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,591,K,False,LYSANDER
+1415754749,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,7987,S,False,PUCK
+1415754749,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,2044,S,False,ROSALINE
+1415754749,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,623,S,False,MERCUTIO
+1415754749,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,582,K,False,OBERON
+#
+# Results on Wednesday November 12 2014 01:27:51 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+# Design number was non-random = 29
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415755672,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,2211,K,False,OBERON
+1415755672,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,16,K,False,TYBALT
+1415755672,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,615,K,False,ROSALINE
+1415755672,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,996,K,False,PUCK
+1415755672,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,45,K,False,LYSANDER
+1415755672,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,800,K,False,MERCUTIO
+#
+# Results on Wednesday November 12 2014 01:29:11 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+# Design number was non-random = 30
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415755751,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,283,K,False,ROSALINE
+1415755751,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,358,K,False,LYSANDER
+1415755751,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,120,S,False,PUCK
+1415755751,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,999,K,False,MERCUTIO
+1415755751,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,880,S,False,TYBALT
+1415755751,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,717,K,False,OBERON
+#
+# Results on Wednesday November 12 2014 01:30:28 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+# Design number was non-random = 31
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415755828,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,416,K,False,PUCK
+1415755828,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,670,K,False,OBERON
+1415755828,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,668,S,False,ROSALINE
+1415755828,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,703,K,False,LYSANDER
+1415755828,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,632,S,False,TYBALT
+1415755828,62ab2dcc72e20dfcb8a46f02b584dd4d,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,679,S,False,MERCUTIO
+#
+# Results on Wednesday November 12 2014 19:07:18 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+# Design number was non-random = 32
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415819239,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,828,S,False,TYBALT
+1415819239,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,1240,K,False,ROSALINE
+1415819239,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,920,S,False,LYSANDER
+1415819239,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,2373,S,False,PUCK
+1415819239,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,538,K,False,OBERON
+1415819239,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,414,S,False,MERCUTIO
+#
+# Results on Wednesday November 12 2014 19:30:56 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+# Design number was non-random = 33
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415820657,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,799,S,False,TYBALT
+1415820657,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,985,K,False,OBERON
+1415820657,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,1291,S,False,PUCK
+1415820657,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,483,S,False,ROSALINE
+1415820657,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,1978,K,False,MERCUTIO
+1415820657,1ea687e1d9e78e3eda286659aecf4aae,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1403,K,False,LYSANDER
+#
+# Results on Thursday November 13 2014 15:17:10 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415891830,b75f0106fc739bb2295630def949f34c,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1044,K,False,LYSANDER
+1415891830,b75f0106fc739bb2295630def949f34c,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,772,S,False,MERCUTIO
+1415891830,b75f0106fc739bb2295630def949f34c,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,1338,S,False,ROSALINE
+1415891830,b75f0106fc739bb2295630def949f34c,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,317,K,False,OBERON
+1415891830,b75f0106fc739bb2295630def949f34c,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,276,K,False,TYBALT
+1415891830,b75f0106fc739bb2295630def949f34c,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,288,K,False,PUCK
+#
+# Results on Thursday November 13 2014 15:18:38 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36
+# Design number was non-random = 34
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1415891918,4e0de2653741fa5a2c7646886cd25d57,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,1303,K,False,PUCK
+1415891918,4e0de2653741fa5a2c7646886cd25d57,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,1281,S,False,TYBALT
+1415891918,4e0de2653741fa5a2c7646886cd25d57,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,2591,K,False,OBERON
+1415891918,4e0de2653741fa5a2c7646886cd25d57,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,6819,S,False,ROSALINE
+1415891918,4e0de2653741fa5a2c7646886cd25d57,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1969,K,False,LYSANDER
+1415891918,4e0de2653741fa5a2c7646886cd25d57,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,2242,S,False,MERCUTIO
+#
+# Results on Thursday January 22 2015 12:17:16 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+# Design number was non-random = 36
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1421929037,1bf5aac39a3662dd18663b5957804041,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,8042,S,False,MERCUTIO
+1421929037,1bf5aac39a3662dd18663b5957804041,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,983,S,False,LYSANDER
+1421929037,1bf5aac39a3662dd18663b5957804041,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,914,S,False,OBERON
+1421929037,1bf5aac39a3662dd18663b5957804041,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,2671,S,False,ROSALINE
+1421929037,1bf5aac39a3662dd18663b5957804041,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,676,S,False,PUCK
+1421929037,1bf5aac39a3662dd18663b5957804041,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,710,S,False,TYBALT
+#
+# Results on Tuesday November 24 2015 12:36:17 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+# Design number was non-random = 37
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1448368578,5d6fa6f6b615be0746bca77f993e5c82,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,1028,K,False,MERCUTIO
+1448368578,5d6fa6f6b615be0746bca77f993e5c82,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,772,S,False,PUCK
+1448368578,5d6fa6f6b615be0746bca77f993e5c82,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,431,K,False,OBERON
+1448368578,5d6fa6f6b615be0746bca77f993e5c82,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,348,K,False,ROSALINE
+1448368578,5d6fa6f6b615be0746bca77f993e5c82,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,152,S,False,LYSANDER
+1448368578,5d6fa6f6b615be0746bca77f993e5c82,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,259,S,False,TYBALT
+#
+# Results on Tuesday November 24 2015 15:16:27 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
+# Design number was non-random = 38
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1448378188,1f7c7a50b6324bdd9a0fae3c4799d493,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,12443,S,False,TYBALT
+1448378188,1f7c7a50b6324bdd9a0fae3c4799d493,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,2289,K,False,PUCK
+1448378188,1f7c7a50b6324bdd9a0fae3c4799d493,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,1531,K,False,OBERON
+1448378188,1f7c7a50b6324bdd9a0fae3c4799d493,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,2097,S,False,MERCUTIO
+1448378188,1f7c7a50b6324bdd9a0fae3c4799d493,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1991,K,False,LYSANDER
+1448378188,1f7c7a50b6324bdd9a0fae3c4799d493,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,2686,S,False,ROSALINE
+#
+# Results on Wednesday November 25 2015 15:59:51 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
+# Design number was non-random = 39
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1448467191,51eb8070300e2e111270f80f91344887,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1038,K,False,LYSANDER
+1448467191,51eb8070300e2e111270f80f91344887,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,1232,S,False,MERCUTIO
+1448467191,51eb8070300e2e111270f80f91344887,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,852,K,False,OBERON
+1448467191,51eb8070300e2e111270f80f91344887,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,828,S,False,PUCK
+1448467191,51eb8070300e2e111270f80f91344887,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,428,S,False,ROSALINE
+1448467191,51eb8070300e2e111270f80f91344887,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,675,S,False,TYBALT
+#
+# Results on Wednesday June 08 2016 09:24:59 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+# Design number was non-random = 40
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1465377899,62d83ecb8a38b54c49af1388a83b94ed,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,838,S,False,LYSANDER
+1465377899,62d83ecb8a38b54c49af1388a83b94ed,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,558,K,False,PUCK
+1465377899,62d83ecb8a38b54c49af1388a83b94ed,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,299,S,False,OBERON
+1465377899,62d83ecb8a38b54c49af1388a83b94ed,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,236,K,False,MERCUTIO
+1465377899,62d83ecb8a38b54c49af1388a83b94ed,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,124,S,False,TYBALT
+1465377899,62d83ecb8a38b54c49af1388a83b94ed,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,357,K,False,ROSALINE
+#
+# Results on Wednesday October 05 2016 12:45:51 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
+# Design number was non-random = 41
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1475671551,59020e8e82498ea1f636728cdc68438f,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,2745,S,False,MERCUTIO
+1475671551,59020e8e82498ea1f636728cdc68438f,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,1824,S,False,PUCK
+1475671551,59020e8e82498ea1f636728cdc68438f,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,1438,S,False,ROSALINE
+1475671551,59020e8e82498ea1f636728cdc68438f,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,1112,S,False,TYBALT
+1475671551,59020e8e82498ea1f636728cdc68438f,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,1658,S,False,OBERON
+1475671551,59020e8e82498ea1f636728cdc68438f,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1095,S,False,LYSANDER
+#
+# Results on Tuesday November 15 2016 18:27:18 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+# Design number was non-random = 42
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1479234438,83cba08a7ffabb7a1e176cbc0562b741,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,4925,K,False,LYSANDER
+1479234438,83cba08a7ffabb7a1e176cbc0562b741,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,2393,S,False,MERCUTIO
+1479234438,83cba08a7ffabb7a1e176cbc0562b741,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,2021,S,False,ROSALINE
+1479234438,83cba08a7ffabb7a1e176cbc0562b741,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,1563,S,False,TYBALT
+1479234438,83cba08a7ffabb7a1e176cbc0562b741,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,1500,K,False,PUCK
+1479234438,83cba08a7ffabb7a1e176cbc0562b741,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,1768,K,False,OBERON
+#
+# Results on Tuesday June 27 2017 22:15:41 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+# Design number was non-random = 43
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1498601742,cd67797d826e3c83d4522e64b67f453c,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,1164,S,False,TYBALT
+1498601742,cd67797d826e3c83d4522e64b67f453c,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,1549,K,False,OBERON
+1498601742,cd67797d826e3c83d4522e64b67f453c,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,829,S,False,MERCUTIO
+1498601742,cd67797d826e3c83d4522e64b67f453c,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,1377,K,False,ROSALINE
+1498601742,cd67797d826e3c83d4522e64b67f453c,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,1280,K,False,PUCK
+1498601742,cd67797d826e3c83d4522e64b67f453c,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1297,K,False,LYSANDER
+#
+# Results on Wednesday November 22 2017 17:19:28 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+# Design number was non-random = 44
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1511371168,1a070cf4b025c8b35216fc499ea0c066,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,2115,S,False,MERCUTIO
+1511371168,1a070cf4b025c8b35216fc499ea0c066,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1103,K,False,LYSANDER
+1511371168,1a070cf4b025c8b35216fc499ea0c066,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,721,S,False,TYBALT
+1511371168,1a070cf4b025c8b35216fc499ea0c066,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,930,S,False,PUCK
+1511371168,1a070cf4b025c8b35216fc499ea0c066,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,819,K,False,OBERON
+1511371168,1a070cf4b025c8b35216fc499ea0c066,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,1135,K,False,ROSALINE
+#
+# Results on Monday October 15 2018 11:50:36 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+# Design number was non-random = 45
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. KeyCode.
+# 12. Newline?
+# 13. Sentence (or sentence MD5).
+1539604237,18b163c9220d2c20b153523abe629f3f,OnlineJudgment,3,0,words-RJ,NULL,1,MERCUTIO,1493,K,False,MERCUTIO
+1539604237,18b163c9220d2c20b153523abe629f3f,OnlineJudgment,7,0,words-MSND,NULL,1,LYSANDER,1647,S,False,LYSANDER
+1539604237,18b163c9220d2c20b153523abe629f3f,OnlineJudgment,5,0,words-MSND,NULL,1,PUCK,764,S,False,PUCK
+1539604237,18b163c9220d2c20b153523abe629f3f,OnlineJudgment,6,0,words-MSND,NULL,1,OBERON,733,K,False,OBERON
+1539604237,18b163c9220d2c20b153523abe629f3f,OnlineJudgment,2,0,words-RJ,NULL,1,TYBALT,795,K,False,TYBALT
+1539604237,18b163c9220d2c20b153523abe629f3f,OnlineJudgment,4,0,words-RJ,NULL,1,ROSALINE,527,K,False,ROSALINE
